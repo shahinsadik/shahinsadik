@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+code&weight=800&size=23&pause=1000&color=C11BF7&center=true&random=false&width=435&lines=Hi+there+%F0%9F%91%8B;I'm+Shahin+Sadik!)](https://git.io/typing-svg)
 
 <!--
 **shahinsadik/shahinsadik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
