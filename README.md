@@ -23,8 +23,8 @@
   </a>
 </div> <br/><br/>
 <li>I’m exploring - now Typescript & SASS.</li>
-<li>I’m looking - To gain industry level experience to work on a qualitifull organization.</li>
-<li>I’m trying - To develop my skills -and collaborate any open source project.</li>
+<li>I’m looking - To gain industry-level experience to work on a quality full organization.</li>
+<li>I’m trying - To develop my skills -and collaborate any open-source project.</li>
 
 
 <h2 align="center">💻 Technologies that I know</h2>
@@ -47,7 +47,7 @@
   <a width=40%   href="https://git.io/streak-stats"><img  width=40%  src="https://github-readme-streak-stats.herokuapp.com?user=shahinsadik&theme=synthwave&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
 
 
- <img width=325 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shahinsadik&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+ <img width=40% align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shahinsadik&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />>
   
   <br/>
  <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shahinsadik&hide=HTML&langs_count=8&layout=compact&theme=synthwave&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
