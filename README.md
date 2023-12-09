@@ -44,7 +44,7 @@
 <h2 align="center">📊 Current Stats</h2>
 <br>
 <div align=center>
-  <a width=40%   href="https://git.io/streak-stats"><img  width=55%  src="https://github-readme-streak-stats.herokuapp.com?user=shahinsadik&theme=synthwave&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
+  <a width=40%   href="https://git.io/streak-stats"><img  width=40%  src="https://github-readme-streak-stats.herokuapp.com?user=shahinsadik&theme=synthwave&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
 
 
  <img width=45% src="https://github-readme-stats-salesp07.vercel.app/api?username=shahinsadik&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
