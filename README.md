@@ -44,12 +44,12 @@
 <h2 align="center">📊 Current Stats</h2>
 <br>
 <div align=center>
-  <a  href="https://git.io/streak-stats"><img  width=50%  src="https://github-readme-streak-stats.herokuapp.com?user=shahinsadik&theme=synthwave&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
+  <a width=40%   href="https://git.io/streak-stats"><img   src="https://github-readme-streak-stats.herokuapp.com?user=shahinsadik&theme=synthwave&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
 
 
-  <img width=50%  src="https://github-readme-stats-salesp07.vercel.app/api?username=shahinsadik&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=40%  src="https://github-readme-stats-salesp07.vercel.app/api?username=shahinsadik&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahinsadik&theme=synthwave" alt="top langs" />
+ <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=shahinsadik&hide=HTML&langs_count=8&layout=compact&theme=synthwave&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
   
   
   
