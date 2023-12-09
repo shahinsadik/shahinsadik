@@ -49,9 +49,10 @@
 
   <img width=350  src="https://github-readme-stats-salesp07.vercel.app/api?username=shahinsadik&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=350   src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=vn7n24fzkq&theme=synthwave" alt="top langs" />
-  ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahinsadik&theme=synthwave)
- 
+  <img width=350   src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahinsadik&theme=synthwave" alt="top langs" />
+  <img width=350   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahinsadik&theme=shahinsadik" alt="top langs" />
+  
+  
   
 </div>
 <br/>
