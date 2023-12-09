@@ -44,13 +44,13 @@
 <h2 align="center">📊 Current Stats</h2>
 <br>
 <div align=center>
-  <a  href="https://git.io/streak-stats"><img  width=350  src="https://github-readme-streak-stats.herokuapp.com?user=shahinsadik&theme=synthwave&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
+  <a  href="https://git.io/streak-stats"><img  width=50%  src="https://github-readme-streak-stats.herokuapp.com?user=shahinsadik&theme=synthwave&rank_icon=github&border_radius=10" alt="GitHub Streak" /></a>
 
 
-  <img width=350  src="https://github-readme-stats-salesp07.vercel.app/api?username=shahinsadik&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
+  <img width=50%  src="https://github-readme-stats-salesp07.vercel.app/api?username=shahinsadik&count_private=true&show_icons=true&theme=synthwave&rank_icon=github&border_radius=10" alt="readme stats" />
   <br/>
-  <img width=350   src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahinsadik&theme=synthwave" alt="top langs" />
-  <img width=350   src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shahinsadik&theme=shahinsadik" alt="top langs" />
+  <img  src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shahinsadik&theme=synthwave" alt="top langs" />
+  
   
   
   
