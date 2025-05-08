@@ -40,8 +40,8 @@
 #### 💻 Languages & Frameworks
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,prisma,firebase" /><br><br>
-  <img height="40" src="https://upload.wikimedia.org/wikipedia/commons/9/9e/Mongoose_Logo.png" alt="Mongoose Logo" title="Mongoose" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,nodejs,express,mongodb,mongoose,prisma,firebase" /><br><br>
+ 
 </div>
 
 #### 🛠️ Tools & Platforms
