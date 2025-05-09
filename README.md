@@ -1,16 +1,20 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=23&pause=1000&color=C11BF7&center=true&width=500&lines=Hi+there+%F0%9F%91%8B;I'm+Md+Shahin+Sadik!;Full+Stack+%7C+API+%7C+MERN+Developer)](https://git.io/typing-svg)
+# 𝗛𝗲𝗹𝗹𝗼, 𝗜'𝗺 𝗠𝗱 𝗦𝗵𝗮𝗵𝗶𝗻 𝗦𝗮𝗱𝗶𝗸! 👋
 
-<a href="https://www.linkedin.com/in/shahinsadik/">
-  <img src="https://github.com/shahinsadik/shahinsadik/blob/main/banner.gif" alt="Banner" style="width: 100%; max-width: 800px;"/>
-</a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=26&duration=4000&pause=1000&color=7E3ACE&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Specialist;Problem+Solver;Tech+Enthusiast)](https://git.io/typing-svg)
 
-<p align="center"><b>Full Stack Developer specializing in robust APIs | Bogura, Bangladesh 🇧🇩</b></p>
-<p align="center">🚀 Crafting scalable web applications with modern technologies</p>
+<div align="center">
+  <a href="https://shahinsadik.vercel.app/">
+    <img src="https://github.com/shahinsadik/shahinsadik/blob/main/banner.gif" alt="Banner" width="100%"/>
+  </a>
+</div>
 
----
+<h3 align="center">𝗕𝘂𝗶𝗹𝗱𝗶𝗻𝗴 𝗱𝗶𝗴𝗶𝘁𝗮𝗹 𝗲𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲𝘀 𝘄𝗶𝘁𝗵 𝗰𝗼𝗱𝗲 | 𝗕𝗼𝗴𝘂𝗿𝗮, 𝗕𝗮𝗻𝗴𝗹𝗮𝗱𝗲𝘀𝗵 🇧🇩</h3>
 
-![Visitor Count](https://komarev.com/ghpvc/?username=shahinsadik&style=flat-square&color=blue)
-![GitHub Followers](https://img.shields.io/github/followers/shahinsadik?style=social)
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7E3ACE&center=true&width=500&lines=Passionate+about+scalable+web+solutions;Open+to+collaborations+and+opportunities;Always+learning+emerging+technologies" alt="Typing SVG" />
+  </a>
+</p>
 
 ---
 
