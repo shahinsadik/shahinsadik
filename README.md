@@ -101,10 +101,10 @@
 ### 📌 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/shahinsadik/e-commerce-fullstack">
+  <a href="https://github.com/shahinsadik/scriptly">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahinsadik&repo=e-commerce-fullstack&theme=synthwave&border_radius=10" alt="E-commerce Project"/>
   </a>
-  <a href="https://github.com/shahinsadik/blog-api">
+  <a href="https://github.com/shahinsadik/VAwork-client">
     <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=shahinsadik&repo=blog-api&theme=synthwave&border_radius=10" alt="Blog API Project"/>
   </a>
 </div>
